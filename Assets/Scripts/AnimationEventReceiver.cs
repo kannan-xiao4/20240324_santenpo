@@ -4,6 +4,6 @@ public class AnimationEventReceiver : MonoBehaviour
 {
     public void PlayeSe()
     {
-        GameController.Instance?.PlaySE();
+        GameController.Instance?.PlaySE(Audio.None);
     }
 }

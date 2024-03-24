@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: TukeyInc
-  productName: Unity1WeekTemplate
+  productName: Santenpo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -159,7 +159,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.TukeyInc.Unity1WeekTemplate
-    Standalone: com.TukeyInc.Unity1WeekTemplate
+    Standalone: com.TukeyInc.Santenpo
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -821,6 +821,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Build: 0
     Game Performance: 0
+    Legacy Analytics: 0
     Purchasing: 0
     UDP: 0
     UNet: 0
@@ -844,10 +845,10 @@ PlayerSettings:
   apiCompatibilityLevel: 3
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: d2e9d470-f1a6-4568-b926-8052e8c46ff5
+  cloudProjectId: 0c7e9dbc-714e-423f-937c-e03e0da97d3c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: unity1week template
+  projectName: 20240318_Santenpo
   organizationId: turkeyinc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

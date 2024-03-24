@@ -1,0 +1,556 @@
+{
+  "select1" : [
+    {
+      "type": "Cheap",
+      "name": "小さくて",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "汚くて",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "くさくて",
+      "rate": 0
+    },
+    {
+      "type": "Cheap",
+      "name": "汚れて",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "質が悪くて",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "安っぽくて",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "低品質で",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "悪質で",
+      "rate": 0
+    },
+    {
+      "type": "Cheap",
+      "name": "粗悪で",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "安物で",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "ぼろくて",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "ダサくて",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "安っぽくて",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "雑で",
+      "rate": 1.2
+    },
+    {
+      "type": "Cheap",
+      "name": "ほころびのある",
+      "rate": 1.3
+    },
+    {
+      "type": "Cheap",
+      "name": "ぼろぼろで",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "雑な作りの",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "ケチで",
+      "rate": 1
+    },
+    {
+      "type": "Cheap",
+      "name": "チープで",
+      "rate": 1.1
+    },
+    {
+      "type": "Normal",
+      "name": "よくある",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "普通で",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "ありふれた",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "平凡で",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "一般的で",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "フラットで",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "典型的で",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "通常の",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "みんなの",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "リーズナブルで",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "お手頃で",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "お値打ちで",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "老舗の",
+      "rate": 1.6
+    },
+    {
+      "type": "Normal",
+      "name": "ロイヤルで",
+      "rate": 1.5
+    },
+    {
+      "type": "Normal",
+      "name": "ユニークで",
+      "rate": 1.5
+    },
+    {
+      "type": "Normal",
+      "name": "伝説の",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "ハイエンドで",
+      "rate": 1.5
+    },
+    {
+      "type": "Normal",
+      "name": "金色の",
+      "rate": 1.2
+    },
+    {
+      "type": "Normal",
+      "name": "100億円の",
+      "rate": 1.7
+    },
+    {
+      "type": "Expensive",
+      "name": "ゴージャスで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "高価で",
+      "rate": 1.1
+    },
+    {
+      "type": "Expensive",
+      "name": "宇宙の",
+      "rate": 1.7
+    },
+    {
+      "type": "Expensive",
+      "name": "ラグジュアリーで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "ゴージャスで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "プレミアムで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "シックで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "デラックスで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "クラシックで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "ファンシーで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "エクスクルーシブで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "エレガントで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "ロイヤルで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "ユニークで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "伝説の",
+      "rate": 1.3
+    },
+    {
+      "type": "Expensive",
+      "name": "ハイエンドで",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "金色の",
+      "rate": 1.2
+    },
+    {
+      "type": "Expensive",
+      "name": "100億円の",
+      "rate": 1.7
+    }
+  ],
+  "select2" : [
+    {
+      "type": "Cheap",
+      "name": "ネチョネチョした",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "ベトベトした",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "小さい",
+      "rate": 1.2
+    },
+    {
+      "type": "Cheap",
+      "name": "くさい",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "しょうもない",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "硬い",
+      "rate": 1.2
+    },
+    {
+      "type": "Cheap",
+      "name": "カサカサした",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "安っぽい",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "こわれた",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "ボロボロの",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "辛い",
+      "rate": 1.2
+    },
+    {
+      "type": "Cheap",
+      "name": "酸っぱい",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "ホコリっぽい",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "ビシャビシャの",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "泥まみれの",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "古い",
+      "rate": 1.2
+    },
+    {
+      "type": "Cheap",
+      "name": "焦げた",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "不味い",
+      "rate": 1.1
+    },
+    {
+      "type": "Cheap",
+      "name": "しょぼい",
+      "rate": 1.2
+    },
+    {
+      "type": "Normal",
+      "name": "無臭の",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "店で買った",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "丸い",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "角ばった",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "滑らかで",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "柔らかい",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "冷たい",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "温かい",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "湿った",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "乾いた",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "軽い",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "重い",
+      "rate": 1.3
+    },
+    {
+      "type": "Normal",
+      "name": "みんな知らない",
+      "rate": 1.1
+    },
+    {
+      "type": "Normal",
+      "name": "肉汁あふれる",
+      "rate": 1.8
+    },
+    {
+      "type": "Normal",
+      "name": "キレのある",
+      "rate": 1.5
+    },
+    {
+      "type": "Normal",
+      "name": "おかわり自由の",
+      "rate": 1.6
+    },
+    {
+      "type": "Normal",
+      "name": "レイトレーシングな",
+      "rate": 1.9
+    },
+    {
+      "type": "Normal",
+      "name": "VIP専用",
+      "rate": 1.2
+    },
+    {
+      "type": "Normal",
+      "name": "めっちゃカッコいい",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "香り高い",
+      "rate": 1.7
+    },
+    {
+      "type": "Expensive",
+      "name": "国産の",
+      "rate": 1.7
+    },
+    {
+      "type": "Expensive",
+      "name": "ギラギラした",
+      "rate": 1.2
+    },
+    {
+      "type": "Expensive",
+      "name": "味わい深い",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "高水準な",
+      "rate": 1.5
+    },
+    {
+      "type": "Expensive",
+      "name": "AWESOMEな",
+      "rate": 1.6
+    },
+    {
+      "type": "Expensive",
+      "name": "ワンランク上な",
+      "rate": 1.6
+    },
+    {
+      "type": "Expensive",
+      "name": "スピリチュアルな",
+      "rate": 1
+    },
+    {
+      "type": "Expensive",
+      "name": "ワールドワイドな",
+      "rate": 1.1
+    },
+    {
+      "type": "Expensive",
+      "name": "限定10食",
+      "rate": 1.7
+    },
+    {
+      "type": "Expensive",
+      "name": "由緒正しい",
+      "rate": 1.2
+    },
+    {
+      "type": "Expensive",
+      "name": "みんな知らない",
+      "rate": 1.1
+    },
+    {
+      "type": "Expensive",
+      "name": "おかわり自由の",
+      "rate": 1.6
+    },
+    {
+      "type": "Expensive",
+      "name": "レイトレーシングな",
+      "rate": 1.9
+    },
+    {
+      "type": "Expensive",
+      "name": "VIP専用",
+      "rate": 1.2
+    },
+    {
+      "type": "Expensive",
+      "name": "めっちゃカッコいい",
+      "rate": 1.5
+    }
+  ]  
+}

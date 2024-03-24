@@ -12,4 +12,9 @@ public class SystemSound
 public enum Audio
 {
     None,
+    ChangePoint,
+    Lottery,
+    Enter,
+    Convert,
+    Exchange,
 }
